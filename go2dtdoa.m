@@ -1,5 +1,4 @@
 %  go2dtdoa.m
-%	written by HH Loomis, 7/5/99, based on ss3001 notes dated   
 %	October 1996, Titled: "Geolocation of Electromagnetic Emitters"
 %  Current version is GEOLOCHHL.doc
 %  Adapted from nrgeogrf.m, version 3.41
